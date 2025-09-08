@@ -105,7 +105,7 @@ Passionate full-stack developer with expertise in modern web technologies and a 
 
 I'm always open to discussing new opportunities, collaborations, or just chatting about technology!
 
-- 📧 **Email**: [shiyicheng13@gmail.com](mailto:shiyicheng13@gmail.com)
+- 📧 **Email**: shiyicheng13@gmail.com
 - 💼 **LinkedIn**: [Shiyi Cheng](https://linkedin.com/in/shiyi-cheng)
 - 🌐 **Portfolio**: [GitHub Projects](https://github.com/STOSKR)
 
